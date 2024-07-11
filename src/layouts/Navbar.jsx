@@ -26,7 +26,7 @@ const Navbar = () => {
   const isMobile = useMediaQuery(theme.breakpoints.down("sm"));
 
   const navItems = [
-    { name: "useState", path: "/use-state" },
+    { name: "useState", path: "/" },
     { name: "useEffect", path: "/use-effect" },
     { name: "Usecontext", path: "/use-context" },
     { name: "UseRef", path: "/use-ref" },

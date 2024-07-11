@@ -16,7 +16,7 @@ function App() {
       <div className="App">
         <Navbar />
         <Routes>
-          <Route path="/use-state" element={<UseState />} />
+          <Route path="/" element={<UseState />} />
           <Route path="/use-effect" element={<UseEffect />} />
           <Route path="/PropsDrilling" element={<PropsDrilling />} />
           <Route path="/use-context" element={<Usecontext />} />

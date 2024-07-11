@@ -31,12 +31,13 @@ const Navbar = () => {
     { name: "Usecontext", path: "/use-context" },
     { name: "UseRef", path: "/use-ref" },
     { name: "UseMemo", path: "/use-memo" },
+    { name: "UseCallback", path: "/use-callback" },
 
     {
       name: "Examples",
       subItems: [
         { name: "PropsDrilling", path: "/PropsDrilling" },
-        { name: "Form", path: "/form" },
+        { name: "SurveyForm", path: "/form" },
       ],
     },
   ];

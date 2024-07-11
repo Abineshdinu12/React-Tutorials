@@ -19,6 +19,7 @@
     "react-scripts": "5.0.1",
     "survey-core": "^1.11.6",
     "survey-react-ui": "^1.11.6",
+    "uniforms": "^4.0.0-alpha.5",
     "web-vitals": "^2.1.4",
     "yup": "^1.4.0"
   },

@@ -8,7 +8,14 @@ const surveyJson = {
     {
       name: "LastName",
       title: "Enter your last name:",
-      type: "text",
+      type: "file",
+    },
+
+    {
+      type: "button",
+      name: "nextButton",
+      title: "Next",
+      click: "nextPage",
     },
   ],
 };
